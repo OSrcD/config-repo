@@ -3,7 +3,7 @@ info:
  
 
 name: Paul
-words: 'God bless you and me'
+words: 'God bless you, my darling'
 
 # 告诉 Config Server 要对接下来的属性 进行解密 如果不加 就会当做字符串直接返回 加了 config server 先进行解密 解密不成功就报错 需要加''  否则 config server 是无法读取这个文件的
 food: '{cipher}70eff3fcaac8333ecbda5dd8126e4bf684d2f20e4e9acca7e020b1ce348da25b'
